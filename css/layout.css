@@ -23,5 +23,27 @@
 }
 
 /* Positioning Classes */
-
-
+.col-1{
+  width: 30%;
+}
+ .col-2{
+  width: 60%;
+}
+ .col-3{
+   width: 50%;
+ }
+ #grass{
+  float:left;
+}
+#chart{
+  float:right;
+}
+ .col-left{
+  float:left;
+ }
+ .marginright{
+    margin-right: 10px;
+}
+ .margintop{
+  margin-top:10px
+}
